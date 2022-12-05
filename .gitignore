@@ -1,7 +1,13 @@
+*.Identifier
+
+# environment variables #
+.env
+
+# environments #
 env/
 apienv/
 
-# Django #
+# django #
 *.log
 *.pot
 *.pyc
