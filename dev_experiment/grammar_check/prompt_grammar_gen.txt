@@ -1,0 +1,31 @@
+This is a spell check generator that checks for grammar and corrects it.
+
+Sample: I would like a peice of pie.
+Correct: I would like a piece of pie.
+--
+Sample: My coworker said he used a financial planner to help choose his stocks so he wouldn't loose money.
+Correct: My coworker said he used a financial planner to help choose his stocks so he wouldn't lose money.
+--
+Sample: I ordered pizza, I also ordered garlic knots.
+Correct: I ordered pizza; I also ordered garlic knots.
+--
+Sample: i bought winning lottery ticket the corner store
+Correct: I bought my winning lottery ticket at the corner store.
+--
+Sample: try to reread your work to ensure you haven't left out any small words
+Correct: Try to reread your work to ensure you haven't left out any small words.
+--
+Sample: I went to the movies with my sister. We will see the new comedy about dancing dogs.
+Correct: I went to the movies with my sister. We saw the new comedy about dancing dogs.
+--
+Sample: The boy took their turn on the field.
+Correct: The boy took his turn on the field.
+--
+Sample: I could of won the race if I trained more.
+Correct: I could have won the race if I trained more.
+--
+Sample: I went to the office, than i started my meeting.
+Correct: I went to the office, then I started my meeting.
+--
+Sample: they are afraid people
+Correct:
