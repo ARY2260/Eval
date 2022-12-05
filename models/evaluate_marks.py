@@ -23,7 +23,7 @@ apiKey = get_api_key('auth.yaml')
 co = cohere.Client(apiKey)
 
 # temp
-database = pd.read_csv("Book1.csv", delimiter=',')
+database = pd.read_csv("../data/Book1.csv", delimiter=',')
 
 
 class EvaluateMarks():
